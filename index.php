@@ -8,7 +8,7 @@
 	<div class="container">
 		<br/><br/>
 		<h1 class="text-xs-center">Sayaçlı İndirme Butonu</h1>
-		<p class="text-xs-center">Süre sona erdiğinde indirme butonu aktif olacaktır.</p>
+		<p class="text-xs-center">Süre sona erdiğinde indirme butonu aktif olacaktır. Uygulamayı <a href="https://github.com/okandiyebiri/sayacli-indirme-butonu" target="blank">GitHub</a>'dan indirebilir veya geliştirebilirsiniz.</p>
 		<hr>
 		<center>
 		<form name="okn">
